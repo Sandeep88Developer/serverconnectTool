@@ -1,4 +1,3 @@
-# serverconnectTool
 #  SSH Deployment & Server Tool
 
 A simple and powerful Python desktop application built with **Tkinter** and **Paramiko** to manage remote server deployments and execute common Git, PM2, and system commands via SSH.
